@@ -1,0 +1,8 @@
+C:\Users\Valiasr\source\repos\exceptions\exceptions\bin\Debug\exceptions.exe.config
+C:\Users\Valiasr\source\repos\exceptions\exceptions\bin\Debug\exceptions.exe
+C:\Users\Valiasr\source\repos\exceptions\exceptions\bin\Debug\exceptions.pdb
+C:\Users\Valiasr\source\repos\exceptions\exceptions\obj\Debug\exceptions.csproj.AssemblyReference.cache
+C:\Users\Valiasr\source\repos\exceptions\exceptions\obj\Debug\exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valiasr\source\repos\exceptions\exceptions\obj\Debug\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Valiasr\source\repos\exceptions\exceptions\obj\Debug\exceptions.exe
+C:\Users\Valiasr\source\repos\exceptions\exceptions\obj\Debug\exceptions.pdb
